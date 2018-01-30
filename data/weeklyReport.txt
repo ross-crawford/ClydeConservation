@@ -1,0 +1,129 @@
+CLYDE CONSERVATION
+WEEKLY REPORT
+TUESDAY 30 JANUARY 2018 (WEEK 5)
+
+CAGE
+	Cage ID: CG434
+	Cage Size: Small
+	Cage Type: Horses and Donkeys
+	Cage Animal Capacity: 2
+	Cage Keeper Capacity: 1
+
+	ANIMALS
+		Animal ID: HO689
+		Animal Name: Horace
+		Animal Sex: Male
+		Animal Family: Mammal
+		Animal Species: Horse
+
+		Animal ID: DO499
+		Animal Name: Mike
+		Animal Sex: Male
+		Animal Family: Mammal
+		Animal Species: Donkey
+
+	KEEPERS
+		Keeper ID: KP222
+		Keeper First Name: Ross
+		Keeper Last Name: Crawford
+
+CAGE
+	Cage ID: CG80
+	Cage Size: Medium
+	Cage Type: Zebras and Marmoset Monkeys
+	Cage Animal Capacity: 4
+	Cage Keeper Capacity: 2
+
+	ANIMALS
+		Animal ID: MA74
+		Animal Name: Raymond
+		Animal Sex: Male
+		Animal Family: Mammal
+		Animal Species: Marmoset-Monkey
+
+		Animal ID: MA600
+		Animal Name: Frances
+		Animal Sex: Female
+		Animal Family: Mammal
+		Animal Species: Marmoset-Monkey
+
+	KEEPERS
+		Keeper ID: KP222
+		Keeper First Name: Ross
+		Keeper Last Name: Crawford
+
+		Keeper ID: KP852
+		Keeper First Name: Gavin
+		Keeper Last Name: Ross
+
+CAGE
+	Cage ID: CG26
+	Cage Size: Large
+	Cage Type: Tigers
+	Cage Animal Capacity: 8
+	Cage Keeper Capacity: 3
+
+	ANIMALS
+		Animal ID: TI700
+		Animal Name: Carol
+		Animal Sex: Female
+		Animal Family: Mammal
+		Animal Species: Tiger
+
+	KEEPERS
+		Keeper ID: KP222
+		Keeper First Name: Ross
+		Keeper Last Name: Crawford
+
+		Keeper ID: KP852
+		Keeper First Name: Gavin
+		Keeper Last Name: Ross
+
+		Keeper ID: KP595
+		Keeper First Name: Dave
+		Keeper Last Name: Black
+
+CAGE
+	Cage ID: CG707
+	Cage Size: Extra-Large
+	Cage Type: Zebras and Marmoset Monkeys
+	Cage Animal Capacity: 16
+	Cage Keeper Capacity: 4
+
+	ANIMALS
+		Animal ID: ZE545
+		Animal Name: Gwen
+		Animal Sex: Female
+		Animal Family: Mammal
+		Animal Species: Zebra
+
+	KEEPERS
+		Keeper ID: KP35
+		Keeper First Name: Alan
+		Keeper Last Name: Wake
+
+
+ANIMALS NOT ASSIGNED TO A CAGE
+
+KEEPERS NOT ASSIGNED TO MAX CAGES
+
+	Keeper ID: KP222
+	Keeper First Name: Ross
+	Keeper Last Name: Crawford
+
+	Keeper ID: KP852
+	Keeper First Name: Gavin
+	Keeper Last Name: Ross
+
+	Keeper ID: KP595
+	Keeper First Name: Dave
+	Keeper Last Name: Black
+
+	Keeper ID: KP743
+	Keeper First Name: Henrietta
+	Keeper Last Name: Smith
+
+	Keeper ID: KP35
+	Keeper First Name: Alan
+	Keeper Last Name: Wake
+

@@ -1,0 +1,20 @@
+CG434
+Small
+Horses and Donkeys
+2
+1
+CG80
+Medium
+Zebras and Marmoset Monkeys
+4
+2
+CG26
+Large
+Tigers
+8
+3
+CG707
+Extra-Large
+Zebras and Marmoset Monkeys
+16
+4
