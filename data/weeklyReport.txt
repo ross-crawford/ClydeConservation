@@ -1,6 +1,6 @@
 CLYDE CONSERVATION
 WEEKLY REPORT
-TUESDAY 30 JANUARY 2018 (WEEK 5)
+FRIDAY 16 FEBRUARY 2018 (WEEK 7)
 
 CAGE
 	Cage ID: CG434
@@ -98,12 +98,29 @@ CAGE
 		Animal Species: Zebra
 
 	KEEPERS
-		Keeper ID: KP35
-		Keeper First Name: Alan
-		Keeper Last Name: Wake
+CAGE
+	Cage ID: CG806
+	Cage Size: Large
+	Cage Type: None
+	Cage Animal Capacity: 8
+	Cage Keeper Capacity: 3
 
+	ANIMALS
+	KEEPERS
 
 ANIMALS NOT ASSIGNED TO A CAGE
+
+	Animal ID: ZE133
+	Animal Name: Brian
+	Animal Sex: Female
+	Animal Family: Mammal
+	Animal Species: Zebra
+
+	Animal ID: VU136
+	Animal Name: Ross
+	Animal Sex: Male
+	Animal Family: Bird
+	Animal Species: Vulture
 
 KEEPERS NOT ASSIGNED TO MAX CAGES
 
@@ -126,4 +143,8 @@ KEEPERS NOT ASSIGNED TO MAX CAGES
 	Keeper ID: KP35
 	Keeper First Name: Alan
 	Keeper Last Name: Wake
+
+	Keeper ID: KP473
+	Keeper First Name: Jon
+	Keeper Last Name: Snow
 

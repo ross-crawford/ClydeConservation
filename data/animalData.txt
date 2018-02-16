@@ -34,3 +34,15 @@ Female
 Mammal
 Zebra
 CG707
+ZE133
+Brian
+Female
+Mammal
+Zebra
+None
+VU136
+Ross
+Male
+Bird
+Vulture
+None

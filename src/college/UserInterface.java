@@ -349,5 +349,6 @@ public class UserInterface {
 		System.out.println("\n======== REPORTS ========\n");
 		System.out.println("1.  Generate Weekly Report");
 		System.out.println("2.  Return to Main Menu");
+		System.out.println("\n\nPlease choose an option:");
 	}
 }

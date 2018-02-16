@@ -18,3 +18,8 @@ Extra-Large
 Zebras and Marmoset Monkeys
 16
 4
+CG806
+Large
+None
+8
+3

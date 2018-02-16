@@ -141,4 +141,9 @@ public class Validate {
 		System.out.flush();
 	}
 	
+	public static void errorMessage() {
+		System.err.println("Error");
+		System.out.flush();
+	}
+	
 }

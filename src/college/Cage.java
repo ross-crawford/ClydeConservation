@@ -13,8 +13,6 @@ public class Cage {
 	private String cageType;
 	private int maxAnimals;
 	private int maxKeepers;
-	private boolean animalFull;
-	private boolean keeperFull;
 	private LinkedList<Animal> cagedAnimals;
 	private LinkedList<Keeper> cagedKeepers;
 	
@@ -278,22 +276,6 @@ public class Cage {
 
 	public void setMaxKeepers(int maxKeepers) {
 		this.maxKeepers = maxKeepers;
-	}
-
-	public boolean isAnimalFull() {
-		return animalFull;
-	}
-
-	public void setAnimalFull(boolean animalFull) {
-		this.animalFull = animalFull;
-	}
-
-	public boolean isKeeperFull() {
-		return keeperFull;
-	}
-
-	public void setKeeperFull(boolean keeperFull) {
-		this.keeperFull = keeperFull;
 	}
 
 	public LinkedList<Animal> getCagedAnimals() {

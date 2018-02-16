@@ -265,8 +265,13 @@ public class Collection {
 	 */
 	public void editAnimal() {
 		Animal animal = searchAnimal();
-		animal.editAnimalDetails(animal);
-		displayAnimalDetails(animal);
+		if(animal != null) {
+			animal.editAnimalDetails(animal);
+			displayAnimalDetails(animal);
+		} else {
+			Validate.errorMessage("Animal ID");
+		}
+		
 	}
 	
 	/*
@@ -278,8 +283,12 @@ public class Collection {
 	 */
 	public void editKeeper() {
 		Keeper keeper = searchKeeper();
-		keeper.editKeeperDetails(keeper);
-		displayKeeperDetails(keeper);
+		if(keeper != null) {
+			keeper.editKeeperDetails(keeper);
+			displayKeeperDetails(keeper);
+		} else {
+			Validate.errorMessage("Keeper ID");
+		}
 	}
 	
 	/*
